@@ -76,7 +76,7 @@ def submit_data():
         print('Negative')
         messagebox.showinfo("heart disease results", 'you are ok, no heart disease')
     elif predicted == 1:
-        messagebox.showinfo("heart disease results", 'you have heart disease')
+        messagebox.showwarning("heart disease results", 'you have heart disease')
         print('positive')
 
 
