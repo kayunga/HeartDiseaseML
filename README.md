@@ -6,4 +6,4 @@ scikit-learn,
 pickle
 
 # How to run the program
-run in terminal: py wxhello.py
+run in terminal: py heart.py
